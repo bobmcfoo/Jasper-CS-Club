@@ -12,12 +12,12 @@ public class MathDemo {
 
         //More stuff
 
-        int squareRootA = Math.sqrt(A);
-        int absoluteValueA = Math.abs(B);
-        int aToPowerOfB = Math.pow(A, B);
+        int squareRootA = Math.sqrt(A); //Square root of A
+        int absoluteValueA = Math.abs(B); //Absolute value of A
+        int aToPowerOfB = Math.pow(A, B); //A to the power of B
 
         //What about Pi?
 
-        int Pi = Math.PI;
+        int Pi = Math.PI; //Pi!!
     }
 }
