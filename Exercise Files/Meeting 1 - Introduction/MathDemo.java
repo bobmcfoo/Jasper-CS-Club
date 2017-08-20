@@ -15,6 +15,9 @@ public class MathDemo {
         int squareRootA = Math.sqrt(A); //Square root of A
         int absoluteValueA = Math.abs(B); //Absolute value of A
         int aToPowerOfB = Math.pow(A, B); //A to the power of B
+        int naturalLogA = Math.log(A); //Natural log of A
+        int logBase10A = Math.log10(A); //Log base 10 of A
+        int logBaseB_A = Math.log(A)/Math.log(B); //Log of A with base B. Use your log rules
 
         //What about Pi?
 
