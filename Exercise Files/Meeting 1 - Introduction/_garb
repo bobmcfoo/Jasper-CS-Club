@@ -1,2 +1,0 @@
-# Getting Input from the Keyboard
-In order to retrieve input from your keyboard, Java has the `Scanner` class _(something that contains special operations and functions for a specific purpose e.g. the_ `Math` _class contains functions for taking the square root of a number, rounding numbers, and many other mathematical operations)_ to let you convert the input that you enter into variables that you can manipulate and utilize. 
